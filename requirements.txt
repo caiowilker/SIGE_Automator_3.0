@@ -1,0 +1,6 @@
+pandas
+selenium
+pyautogui
+ttkbootstrap
+openpyxl
+python-docx

@@ -1,0 +1,8 @@
+{
+  "login_url": "https://saofrancisco-mg.nobesistemas.com.br/educacao/users/sign_in",
+  "login_fields": {
+    "usuario": "user_login",
+    "senha": "user_password",
+    "botao": "user_submit"
+  }
+}
