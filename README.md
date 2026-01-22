@@ -39,8 +39,6 @@ SIGE_Automator_3.0/
 ├── requirements.txt # Dependências do projeto
 └── README.md
 
-yaml
-Copiar código
 
 ---
 
@@ -67,20 +65,20 @@ Copiar código
 git clone https://github.com/caiowilker/SIGE_Automator_3.0.git
 Acesse a pasta do projeto:
 
-bash
-Copiar código
 cd SIGE_Automator_3.0
+
+
 Instale as dependências:
 
-bash
-Copiar código
 pip install -r requirements.txt
+
+
 Execute a aplicação:
 
-bash
-Copiar código
 python main.py
+
 📚 Aprendizados
+
 Estruturação de projetos Python de forma modular
 
 Automação aplicada a processos reais
