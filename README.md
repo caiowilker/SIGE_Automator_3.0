@@ -40,10 +40,26 @@ SIGE_Automator_3.0/
 - Automação de processos
 - Estrutura modular
 
+### Organização dos módulos
+
+- **automator**: contém a lógica principal da automação e a implementação específica do fluxo do SIGE.
+- **data**: responsável pelo gerenciamento e importação dos dados utilizados durante o processo.
+- **interface**: camada simples de interação com o usuário para iniciar a automação.
+- **utils**: funções auxiliares para validação, formatação e reaproveitamento de código.
+
+
+## Funcionalidades
+
+- Automação do cadastro de alunos no sistema SIGE
+- Leitura e tratamento de dados externos
+- Validação de informações antes da execução
+- Organização do fluxo para reduzir falhas manuais
+
 
 ## Como executar
 
-1. Clone o repositório
-2. Instale as dependências com pip
-3. Execute o arquivo main.py
+1. Clonar o repositório
+2. Instalar as dependências listadas em requirements.txt
+3. Executar o arquivo main.py
+
 
